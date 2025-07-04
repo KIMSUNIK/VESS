@@ -1,4 +1,5 @@
 ##VESS (Virtual Engine Sound System)
+
 #Objective
 This project aims to develop a Virtual Engine Sound System (VESS), a system that generates artificial driving sounds for vehicles with little to no powertrain noise, such as Electric Vehicles (EVs) and Hybrid-Electric Vehicles (HEVs).
 
